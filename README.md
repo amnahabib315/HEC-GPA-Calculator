@@ -32,6 +32,10 @@ A C++ console application that calculates semester GPA according to Pakistan's H
 - `grading_scale.txt` — HEC percentage-to-grade-point mapping
 - `students.txt` — saved student records
 
+  ## Screenshot
+
+![Report Card Screenshot](report_card_screenshot.png)
+
 ## How to Run
 
 Requires a C++ compiler (e.g., g++/MinGW) installed.
