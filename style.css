@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f0f0f0;
+      font-family: Arial, sans-serif;
+    padding: 30px;
+}
+.report-card{
+    width: 1200px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 20px auto;
+    cursor: pointer;
+     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+.header{
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+     box-shadow: 0 2px 2px rgba(71, 66, 136, 0.336);
+     background:navy;  
+     color: white;
+     padding: 10px 0;
+    }
+header h1{
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+.header h2{
+    font-size: 20px;
+    color: white;
+    margin-top: 5px;
+    opacity: 0.8;
+}
+.info-table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 25px;
+    border: 1px solid #ccc;
+}
+.info-table th, .info-table td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+.info-table td:nth-child(odd) {
+    background: #e8eaf6;
+    width: 20%;
+    color: #1a237e;
+}
+.info-table td:nth-child(even) {
+    width: 30%;
+}
+.courses-table tbody tr:nth-child(even) {
+    background: #f5f5f5;
+}
+
+.courses-table tbody tr:hover {
+    background: #e8eaf6;
+}
+.courses-table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.courses-table th, .courses-table td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+.gpa-section{
+    margin-top: 20px;
+}
+.gpa-table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.gpa-table th, .gpa-table td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+.gpa-table td:first-child {
+    background: #e8eaf6;
+    color: #1a237e;
+}
+
+.gpa-table tr:last-child td:last-child {
+    font-weight: bold;
+    color: green;
+    font-size: 16px;
+}
+.footer{
+    text-align: center;
+    margin-top: 20px;
+}
+.courses-table th {
+    background: navy; 
+    color: white;          
+    padding: 10px;        
+    border: 1px solid navy;
+     text-align: center;
+}
+
+.courses-table td {
+    padding: 10px;       
+    border: 1px solid #ccc; 
+    text-align: center;  
+}

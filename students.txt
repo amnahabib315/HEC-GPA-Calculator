@@ -1,0 +1,106 @@
+------------------------------
+Roll No: 4
+Name: Amna Habib
+Number of courses: 3
+Semester: 2
+Course 1 Name: Database Systems
+Credit Hours: 4
+Total Marks: 80
+Obtained Marks: 60
+Course 2 Name: OOP
+Credit Hours: 4
+Total Marks: 80
+Obtained Marks: 55
+Course 3 Name: multi calculus
+Credit Hours: 3
+Total Marks: 60
+Obtained Marks: 40
+GPA:2.81364
+------------------------------
+------------------------------
+Roll No: 2
+Name: Amna Habib
+Number of courses: 2
+Semester: 2
+Course 1 Name: PF
+Credit Hours: 4
+Total Marks: 80
+Obtained Marks: 60
+Course 2 Name: Multi calculus
+Credit Hours: 3
+Total Marks: 60
+Obtained Marks: 40
+GPA:2.90143
+------------------------------
+------------------------------
+Roll No: 1
+Name: Sara Khan
+Number of courses: 4
+Semester: 2
+Course 1 Name: A I
+Credit Hours: 3
+Total Marks: 60
+Obtained Marks: 48
+Course 2 Name: OOP
+Credit Hours: 4
+Total Marks: 80
+Obtained Marks: 64
+Course 3 Name: Multi Calculus
+Credit Hours: 3
+Total Marks: 60
+Obtained Marks: 40
+Course 4 Name: I C T
+Credit Hours: 3
+Total Marks: 60
+Obtained Marks: 57
+GPA:3.43154
+------------------------------
+------------------------------
+Roll No: 10
+Name: Ali Khan
+Number of courses: 3
+Semester: 5
+Course 1 Name: I C T
+Credit Hours: 3
+Total Marks: 60
+Obtained Marks: 40
+Course 2 Name: OOP
+Credit Hours: 4
+Total Marks: 80
+Obtained Marks: 60
+Course 3 Name: F E
+Credit Hours: 3
+Total Marks: 60
+Obtained Marks: 40
+GPA:2.73
+------------------------------
+------------------------------
+Roll No: 12
+Name: Sana
+Number of courses: 2
+Semester: 4
+Course 1 Name: A I
+Credit Hours: 3
+Total Marks: 60
+Obtained Marks: 40
+Course 2 Name: I C T
+Credit Hours: 3
+Total Marks: 60
+Obtained Marks: 40
+GPA:2.33
+------------------------------
+------------------------------
+Roll No: 20
+Name: Ayeza
+Number of courses: 2
+Semester: 5
+Course 1 Name: OOP
+Credit Hours: 4
+Total Marks: 80
+Obtained Marks: 60
+Course 2 Name: I C T
+Credit Hours: 3
+Total Marks: 60
+Obtained Marks: 40
+GPA:2.90143
+------------------------------
