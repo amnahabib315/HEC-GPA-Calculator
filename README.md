@@ -34,7 +34,7 @@ A C++ console application that calculates semester GPA according to Pakistan's H
 
   ## Screenshot
 
-![Report Card Screenshot](report_card_screenshot.png)
+![Report Card Screenshot](semester_result_card.png)
 
 ## How to Run
 
