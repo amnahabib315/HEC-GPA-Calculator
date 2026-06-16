@@ -34,10 +34,8 @@ A C++ console application that calculates semester GPA according to Pakistan's H
 
 ## How to Run
 
-```bash
-g++ main.cpp -o main
-./main
-```
+Requires a C++ compiler (e.g., g++/MinGW) installed.
+Compile main.cpp and run the generated executable.
 
 ## Author
 
