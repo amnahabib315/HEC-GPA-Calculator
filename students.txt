@@ -104,3 +104,45 @@ Total Marks: 60
 Obtained Marks: 40
 GPA:2.90143
 ------------------------------
+
+Roll No: 23
+Name: Ali Khan
+Number of courses: 4
+Semester: 5
+Course 1 Name: ICT
+Credit Hours: 3
+Total Marks: 60
+Obtained Marks: 48
+Course 2 Name: Calculus
+Credit Hours: 3
+Total Marks: 60
+Obtained Marks: 45
+Course 3 Name: OOP
+Credit Hours: 4
+Total Marks: 80
+Obtained Marks: 60
+Course 4 Name: Database Systems
+Credit Hours: 4
+Total Marks: 80
+Obtained Marks: 55
+GPA:3.20929
+
+
+Roll No: 25-BSSE-01
+Name: Amna Habib
+Number of courses: 3
+Semester: 4
+Course 1 Name: Artifical Intelligence
+Credit Hours: 3
+Total Marks: 60
+Obtained Marks: 48
+Course 2 Name: Multi Calculus
+Credit Hours: 3
+Total Marks: 60
+Obtained Marks: 48
+Course 3 Name: OOP
+Credit Hours: 4
+Total Marks: 80
+Obtained Marks: 70
+GPA:3.796
+

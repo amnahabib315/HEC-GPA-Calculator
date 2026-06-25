@@ -44,24 +44,23 @@ class course{
 class student{
     protected:
     string s_name;
-    int roll_no;
+    string roll_no;
     int no_of_courses;
     vector<course>courses;
     bool found=false;
     int semester;
     public:
     student(){
-        s_name=" ";
-        roll_no=no_of_courses=0;
+        s_name=roll_no=" ";
+        no_of_courses=0;
     } 
     void input(){
         cout<<"Enter your Roll no: ";
-        cin>>roll_no;
-        cin.ignore();
+        getline(cin,roll_no);
         ifstream file("students.txt");
         string line;
         while (getline(file, line)) {
-            if (line.find("Roll No: " + to_string(roll_no)) != string::npos) {
+            if (line.find("Roll No: " + roll_no) != string::npos) {
                 string nameLine;
                   getline(file, nameLine); //reads only next line which is name
                   s_name = nameLine.substr(6); 
@@ -165,7 +164,7 @@ void generate_report_card(double gpa){
 
    
     replace("STUDENT_NAME", s_name); //(placeholder,value)
-    replace("STUDENT_ROLL", to_string(roll_no));
+    replace("STUDENT_ROLL", roll_no);
     replace("STUDENT_COURSES", to_string(no_of_courses));
     replace("STUDENT_SEMESTER", to_string(semester));
     replace("STUDENT_GPA", to_string(gpa).substr(0, 4));
@@ -229,7 +228,7 @@ void load_from_file(){
     
     //  read line by line until we find our roll number
     while(getline(file, line)){
-        if(line.find("Roll No: " + to_string(roll_no)) != string::npos){
+        if(line.find("Roll No: " + roll_no) != string::npos){
             
             // FOUND  Now read the next lines IN ORDER
             
